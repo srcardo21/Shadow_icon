@@ -1,0 +1,38 @@
+body{
+    background-color: #17223b;
+    color: aliceblue;
+}
+
+.sombras-xl{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20%;
+    display: table;
+}
+
+.contenido{
+    border-radius: 20%;
+    color: #fff7f7;
+    font-size: 9em;
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+    text-shadow: 10px 10px #393E46;
+}
+
+.facebook{
+    background-color: #4c6ef5;
+}
+
+.instagram{
+    background: #833ab4;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.twitch{
+    background-color: #6441a4;
+}
